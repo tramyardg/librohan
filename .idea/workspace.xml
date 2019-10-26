@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c6361b3-3596-4245-9802-9a96b7dfec95" name="Default" comment="final fix for release demo" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution>
+      <phar pharPath="C:\xampp\htdocs\composer.phar" interpreterId="9aa39046-f399-4c9f-a8b1-378a79714ead" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>updateOrderFormSubmit</find>
+      <find>update-bookstore-order</find>
+      <find>fulfillOrderRequest</find>
+      <find>qtyOnHandByPublisher</find>
+      <find>qtyOrderedByClient</find>
+      <find>company-name-id</find>
+      <find>datetimeShipped</find>
+      <find>update</find>
+      <find>$aController</find>
+      <find>$pbController</find>
+      <find>$bkController</find>
+      <find>$baController</find>
+      <find>$bIController</find>
+      <find>$pbInvController</find>
+      <find>BookController</find>
+      <find>BookAuthorsController</find>
+      <find>BookInventoryController</find>
+      <find>console.log</find>
+      <find>AWAITING</find>
+      <find>fulfillOrderForm</find>
+      <find>// shows</find>
+      <find>updateOrderModalBodyInner</find>
+      <find>fulfillSubmitBtn</find>
+      <find>bookCate</find>
+      <find>qtyInput</find>
+      <find>new Date().toDateInputValue()</find>
+      <find>$Corders</find>
+      <find>$temp</find>
+      <find>AWAI</find>
+      <find>Your order</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$fiction</replace>
+      <replace>ISBN</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="addBookFeatureMaster" />
+      </map>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1SlIvDI32KiPg76RFfFwmpe1IH6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.data.extractors.current.id" value="Tab-separated (TSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vcs.patch.path" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\c353proj\css" />
+      <recent name="C:\xampp\htdocs\c353proj\service" />
+      <recent name="C:\xampp\htdocs\c353proj" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="BackOrderControllerTest" file="$PROJECT_DIR$/tests/BackOrderControllerTest.php" method="testIsBackOrderIdExists" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.BackOrderControllerTest.testIsBackOrderIdExists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c6361b3-3596-4245-9802-9a96b7dfec95" name="Default" comment="" />
+      <created>1548453319720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548453319720</updated>
+      <workItem from="1548453321172" duration="4480000" />
+      <workItem from="1551814077579" duration="18000" />
+      <workItem from="1551814203712" duration="2995000" />
+      <workItem from="1553527367435" duration="7449000" />
+      <workItem from="1553623838921" duration="3101000" />
+      <workItem from="1553631275990" duration="2972000" />
+      <workItem from="1553648242339" duration="6208000" />
+      <workItem from="1553702463923" duration="17837000" />
+      <workItem from="1554253482713" duration="46174000" />
+      <workItem from="1554391090889" duration="7222000" />
+      <workItem from="1554476699088" duration="57121000" />
+      <workItem from="1572131985562" duration="483000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit main project">
+      <created>1551817193311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551817193311</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactored book table to have categories as enum">
+      <created>1553528016537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553528016537</updated>
+    </task>
+    <task id="LOCAL-00003" summary="register as employee page in progress">
+      <created>1553531191896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553531191896</updated>
+    </task>
+    <task id="LOCAL-00004" summary="employee back end and unit tests">
+      <created>1553534247640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553534247640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[#7] added data for books, implemented book category enum (not db)">
+      <created>1553626882091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553626882091</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[#7] book backend functions for display and create">
+      <created>1553633123370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553633123386</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[#7] books table by category update">
+      <created>1553634241420</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553634241420</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[#7] book backend functions for display and create">
+      <created>1553657874080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553657874080</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[#7] author model">
+      <created>1553703887858</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553703887858</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[#7] author backend with associated unit test">
+      <created>1553706964959</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553706964959</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[#7] associate authors with book">
+      <created>1553711743492</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1553711743492</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[#7] book authors data">
+      <created>1553712043249</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1553712043249</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[#7] book books_inventory data">
+      <created>1553719193026</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1553719193026</updated>
+    </task>
+    <task id="LOCAL-00014" summary="merge client features to master">
+      <created>1553890015982</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1553890015982</updated>
+    </task>
+    <task id="LOCAL-00015" summary="modify existing product WIP">
+      <created>1554256063126</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554256063141</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added period specified in publisher orders (one of the requirement)">
+      <created>1554311220304</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554311220304</updated>
+    </task>
+    <task id="LOCAL-00017" summary="order and order items sample data">
+      <created>1554315854250</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554315854250</updated>
+    </task>
+    <task id="LOCAL-00018" summary="employee feature ref. #20, #15">
+      <created>1554316740653</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554316740653</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updated customer cart and back order book request - ref. #16">
+      <created>1554339349039</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554339349039</updated>
+    </task>
+    <task id="LOCAL-00020" summary="inserting client orders to database WIP">
+      <created>1554357787953</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554357787953</updated>
+    </task>
+    <task id="LOCAL-00021" summary="changed css design">
+      <created>1554392307832</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1554392307832</updated>
+    </task>
+    <task id="LOCAL-00022" summary="client orders template  table refactored">
+      <created>1554393597249</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1554393597249</updated>
+    </task>
+    <task id="LOCAL-00023" summary="customer: displaying back orders in my orders page">
+      <created>1554481381076</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1554481381076</updated>
+    </task>
+    <task id="LOCAL-00024" summary="employee ordering books #15, #20">
+      <created>1554482616661</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1554482616661</updated>
+    </task>
+    <task id="LOCAL-00025" summary="employee ordering books WIP 70% completed ref. #15, #20">
+      <created>1554485820435</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1554485820435</updated>
+    </task>
+    <task id="LOCAL-00026" summary="employee ordering books fully completed ref. #15, #20">
+      <created>1554497550480</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1554497550480</updated>
+    </task>
+    <task id="LOCAL-00027" summary="displaying employee/bookstore orders done">
+      <created>1554500591484</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1554500591484</updated>
+    </task>
+    <task id="LOCAL-00028" summary="publisher fulfilling bookstore employee order WIP">
+      <created>1554507524969</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1554507524969</updated>
+    </task>
+    <task id="LOCAL-00029" summary="publisher fulfilling bookstore employee order completed">
+      <created>1554515712559</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1554515712559</updated>
+    </task>
+    <task id="LOCAL-00030" summary="minor refactor publisher sending shipments">
+      <created>1554525949404</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1554525949404</updated>
+    </task>
+    <task id="LOCAL-00031" summary="publisher modifying existing product completed">
+      <created>1554568850378</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1554568850378</updated>
+    </task>
+    <task id="LOCAL-00032" summary="query for updating customer order">
+      <created>1554572140909</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1554572140909</updated>
+    </task>
+    <task id="LOCAL-00033" summary="client orders and receiving shipment orders done">
+      <created>1554578050016</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1554578050016</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix indentation">
+      <created>1554578094259</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1554578094259</updated>
+    </task>
+    <task id="LOCAL-00035" summary="final fix for release demo">
+      <created>1554602658830</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1554602658830</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AuthorControllerTest_testViewAuthors - 2019.03.27 at 14h 25m 56s.xml">
+      <configuration name="AuthorControllerTest.testViewAuthors" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BackOrderControllerTest_testIsBackOrderIdExists - 2019.04.03 at 17h 39m 29s.xml">
+      <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BackOrderControllerTest_testIsBackOrderIdExists - 2019.04.03 at 17h 54m 18s.xml">
+      <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BackOrderControllerTest_testIsBackOrderIdExists - 2019.04.03 at 17h 54m 40s.xml">
+      <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BackOrderControllerTest_testIsBackOrderIdExists - 2019.04.03 at 17h 57m 31s.xml">
+      <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BackOrderControllerTest_testIsBackOrderIdExists - 2019.04.03 at 17h 57m 36s.xml">
+      <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BackOrderControllerTest_testIsBackOrderIdExists - 2019.04.03 at 17h 58m 38s.xml">
+      <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BackOrderControllerTest_testIsBackOrderIdExists - 2019.04.03 at 17h 58m 44s.xml">
+      <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BackOrderControllerTest_testIsBackOrderIdExists - 2019.04.03 at 18h 00m 28s.xml">
+      <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BackOrderControllerTest_testIsBackOrderIdExists - 2019.04.03 at 18h 00m 39s.xml">
+      <configuration name="BackOrderControllerTest.testIsBackOrderIdExists" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[#7] associate authors with book" />
+    <MESSAGE value="[#7] book authors data" />
+    <MESSAGE value="[#7] book books_inventory data" />
+    <MESSAGE value="merge client features to master" />
+    <MESSAGE value="modify existing product WIP" />
+    <MESSAGE value="added period specified in publisher orders (one of the requirement)" />
+    <MESSAGE value="order and order items sample data" />
+    <MESSAGE value="employee feature ref. #20, #15" />
+    <MESSAGE value="updated customer cart and back order book request - ref. #16" />
+    <MESSAGE value="inserting client orders to database WIP" />
+    <MESSAGE value="changed css design" />
+    <MESSAGE value="client orders template  table refactored" />
+    <MESSAGE value="customer: displaying back orders in my orders page" />
+    <MESSAGE value="employee ordering books #15, #20" />
+    <MESSAGE value="employee ordering books WIP 70% completed ref. #15, #20" />
+    <MESSAGE value="employee ordering books fully completed ref. #15, #20" />
+    <MESSAGE value="displaying employee/bookstore orders done" />
+    <MESSAGE value="publisher fulfilling bookstore employee order WIP" />
+    <MESSAGE value="publisher fulfilling bookstore employee order completed" />
+    <MESSAGE value="minor refactor publisher sending shipments" />
+    <MESSAGE value="publisher modifying existing product completed" />
+    <MESSAGE value="query for updating customer order" />
+    <MESSAGE value="client orders and receiving shipment orders done" />
+    <MESSAGE value="fix indentation" />
+    <MESSAGE value="final fix for release demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="final fix for release demo" />
+  </component>
+</project>
