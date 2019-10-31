@@ -138,11 +138,12 @@ const rerenderBooks = () => {
 // insert into back_orders
 const requestOrder = (bookId) => {
     // populate modal body with the data that is needed
-    $("#order-body").empty();
+    let orderBody = $("#order-body");
+    orderBody.empty();
     selectedBook = allBooks.filter((book) => book.book_id == bookId)[0];
-    console.log("back order book request: ", selectedBook);
+    // console.log("back order book request: ", selectedBook);
 
-    $("#order-body").append(`
+    orderBody.append(`
         <div>${selectedBook.title}</div><br>
         <div class="input-group mb-3">
             <div class="input-group-prepend">
@@ -167,8 +168,6 @@ const orderSubmit = () => {
         alert("Quantity must have at least 1");
         return;
     }
-
-    // console.log(payload);
 
     $.post("api/backOrder.php", payload, (response) => {
         response = JSON.parse(response);
@@ -231,7 +230,7 @@ cartForm.append(`
 `);
 
 const submitCartForm = () => {
-    console.log(cartItems);
+    // console.log(cartItems);
     if (cartItems.length <= 0) {
         alert('Your cart is empty.');
         return;
@@ -256,7 +255,7 @@ const submitCartForm = () => {
         if(JSON.parse(response).length === 0) {
             alert('Something went wrong!');
         } else {
-            console.log(JSON.parse(response));
+            // console.log(JSON.parse(response));
             localStorage.clear();
             alert('Thank you for purchasing with us.');
         }

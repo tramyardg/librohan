@@ -24,4 +24,6 @@ charset = "UTF-8"
 - A publisher can ship orders made by a bookstore employee.
 - A publisher can create/modify a new book and add it to its inventory.
 - A book can have more than one authors.
+- An account (Login/Logout) system for customers, bookstore employees, and publishers.
+- Book cart and order history. 
  
